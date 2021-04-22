@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kwwgoo&#39;s blog</title>
+  <icon>http://explore-x.net/icon.png</icon>
+  <subtitle>孤独是常态</subtitle>
+  <link href="http://explore-x.net/atom.xml" rel="self"/>
+  
+  <link href="http://explore-x.net/"/>
+  <updated>2021-04-22T12:32:03.295Z</updated>
+  <id>http://explore-x.net/</id>
+  
+  <author>
+    <name>kwwgoo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>光纤通信</title>
+    <link href="http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
+    <id>http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/</id>
+    <published>2021-04-22T12:24:21.000Z</published>
+    <updated>2021-04-22T12:32:03.295Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;光纤的传输特性&quot;&gt;&lt;a href=&quot;#光纤的传输特性&quot; class=&quot;headerlink&quot; title=&quot;光纤的传输特性&quot;&gt;&lt;/a&gt;光纤的传输特性&lt;/h2&gt;&lt;h3 id=&quot;光纤的损耗&quot;&gt;&lt;a href=&quot;#光纤的损耗&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="光迁通信" scheme="http://explore-x.net/categories/%E5%85%89%E8%BF%81%E9%80%9A%E4%BF%A1/"/>
+    
+    
+    <category term="光纤通信" scheme="http://explore-x.net/tags/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo部署</title>
+    <link href="http://explore-x.net/2021/04/13/Hexo%E9%83%A8%E7%BD%B2/"/>
+    <id>http://explore-x.net/2021/04/13/Hexo%E9%83%A8%E7%BD%B2/</id>
+    <published>2021-04-13T07:40:30.000Z</published>
+    <updated>2021-04-17T11:21:30.000Z</updated>
+    
+    
+    <summary type="html">部署Hexo博客中的记录和问题</summary>
+    
+    
+    
+    <category term="学习" scheme="http://explore-x.net/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Hexo" scheme="http://explore-x.net/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://explore-x.net/2021/04/13/hello-world/"/>
+    <id>http://explore-x.net/2021/04/13/hello-world/</id>
+    <published>2021-04-13T06:45:35.662Z</published>
+    <updated>2021-04-13T06:45:35.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
