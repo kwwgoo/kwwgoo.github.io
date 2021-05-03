@@ -6,7 +6,7 @@
   <link href="http://explore-x.net/atom.xml" rel="self"/>
   
   <link href="http://explore-x.net/"/>
-  <updated>2021-04-28T05:24:01.188Z</updated>
+  <updated>2021-05-03T08:03:58.773Z</updated>
   <id>http://explore-x.net/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mysql学习</title>
+    <link href="http://explore-x.net/2021/05/03/Mysql%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://explore-x.net/2021/05/03/Mysql%E5%AD%A6%E4%B9%A0/</id>
+    <published>2021-05-03T07:17:40.000Z</published>
+    <updated>2021-05-03T08:03:58.773Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;MySQL安装&quot;&gt;&lt;a href=&quot;#MySQL安装&quot; class=&quot;headerlink&quot; title=&quot;MySQL安装&quot;&gt;&lt;/a&gt;MySQL安装&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="http://explore-x.net/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="mysql" scheme="http://explore-x.net/tags/mysql/"/>
+    
+  </entry>
   
   <entry>
     <title>Django学习</title>
@@ -40,7 +65,7 @@
     <link href="http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
     <id>http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/</id>
     <published>2021-04-22T12:24:21.000Z</published>
-    <updated>2021-04-23T09:01:17.010Z</updated>
+    <updated>2021-05-03T07:18:37.513Z</updated>
     
     
       
@@ -53,7 +78,7 @@
     
     
     
-    <category term="光迁通信" scheme="http://explore-x.net/categories/%E5%85%89%E8%BF%81%E9%80%9A%E4%BF%A1/"/>
+    <category term="光纤通信" scheme="http://explore-x.net/categories/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
     
     
     <category term="光纤通信" scheme="http://explore-x.net/tags/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
