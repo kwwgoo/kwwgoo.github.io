@@ -9,6 +9,14 @@
   background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
     linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
 }
+#web_bg {
+  /* 背景图像的地址（url括号里）  */
+  background: url(https://cdn.jsdelivr.net/gh/kwwgoo/cdn/custom/1622638588465.jpg);
+  /* 背景图像不重复 */
+  background-repeat: no-repeat;
+  /* 背景图像大小 */
+  background-size: cover;
+}
 
 /* 首页中间打字效果上方 */
 #page-header #site_title {
