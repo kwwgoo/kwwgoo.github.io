@@ -41,7 +41,7 @@ function qipao() {
             h()
         }(), window.addEventListener("scroll", c, !1), window.addEventListener("resize", s, !1)
     }
-}(jQuery);
+}();
 
 // 调用气泡方法
 qipao();
