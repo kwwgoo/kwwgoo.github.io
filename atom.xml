@@ -6,7 +6,7 @@
   <link href="http://explore-x.net/atom.xml" rel="self"/>
   
   <link href="http://explore-x.net/"/>
-  <updated>2021-07-02T12:36:26.706Z</updated>
+  <updated>2021-07-11T03:05:44.127Z</updated>
   <id>http://explore-x.net/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>实习总结</title>
+    <link href="http://explore-x.net/2021/07/11/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    <id>http://explore-x.net/2021/07/11/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
+    <published>2021-07-11T01:37:31.000Z</published>
+    <updated>2021-07-11T03:05:44.127Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;实习总结&quot;&gt;&lt;a href=&quot;#实习总结&quot; class=&quot;headerlink&quot; title=&quot;实习总结&quot;&gt;&lt;/a&gt;实习总结&lt;/h1&gt;&lt;h2 id=&quot;背景及前言&quot;&gt;&lt;a href=&quot;#背景及前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="浮生六级" scheme="http://explore-x.net/categories/%E6%B5%AE%E7%94%9F%E5%85%AD%E7%BA%A7/"/>
+    
+    
+    <category term="实习" scheme="http://explore-x.net/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>光电科学与工程</title>
     <link href="http://explore-x.net/2021/07/02/%E5%85%89%E7%94%B5%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B/"/>
     <id>http://explore-x.net/2021/07/02/%E5%85%89%E7%94%B5%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B/</id>
     <published>2021-07-02T11:52:08.000Z</published>
-    <updated>2021-07-02T12:36:26.706Z</updated>
+    <updated>2021-07-11T02:30:09.972Z</updated>
     
     
       
@@ -46,15 +71,17 @@
     <link href="http://explore-x.net/2021/06/20/frequently-used/"/>
     <id>http://explore-x.net/2021/06/20/frequently-used/</id>
     <published>2021-06-20T03:13:27.000Z</published>
-    <updated>2021-06-20T04:27:29.479Z</updated>
+    <updated>2021-07-11T02:20:30.000Z</updated>
     
     
     <summary type="html">一些关于容易忘记的东西</summary>
     
     
     
+    <category term="学海无涯" scheme="http://explore-x.net/categories/%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF/"/>
     
-    <category term="Hexo" scheme="http://explore-x.net/tags/Hexo/"/>
+    
+    <category term="Hexo，写作" scheme="http://explore-x.net/tags/Hexo%EF%BC%8C%E5%86%99%E4%BD%9C/"/>
     
   </entry>
   
