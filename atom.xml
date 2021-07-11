@@ -6,7 +6,7 @@
   <link href="http://explore-x.net/atom.xml" rel="self"/>
   
   <link href="http://explore-x.net/"/>
-  <updated>2021-07-11T03:05:44.127Z</updated>
+  <updated>2021-07-11T02:20:30.000Z</updated>
   <id>http://explore-x.net/</id>
   
   <author>
@@ -15,56 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>实习总结</title>
-    <link href="http://explore-x.net/2021/07/11/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
-    <id>http://explore-x.net/2021/07/11/%E5%AE%9E%E4%B9%A0%E6%80%BB%E7%BB%93/</id>
-    <published>2021-07-11T01:37:31.000Z</published>
-    <updated>2021-07-11T03:05:44.127Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;实习总结&quot;&gt;&lt;a href=&quot;#实习总结&quot; class=&quot;headerlink&quot; title=&quot;实习总结&quot;&gt;&lt;/a&gt;实习总结&lt;/h1&gt;&lt;h2 id=&quot;背景及前言&quot;&gt;&lt;a href=&quot;#背景及前言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="浮生六级" scheme="http://explore-x.net/categories/%E6%B5%AE%E7%94%9F%E5%85%AD%E7%BA%A7/"/>
-    
-    
-    <category term="实习" scheme="http://explore-x.net/tags/%E5%AE%9E%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>光电科学与工程</title>
-    <link href="http://explore-x.net/2021/07/02/%E5%85%89%E7%94%B5%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B/"/>
-    <id>http://explore-x.net/2021/07/02/%E5%85%89%E7%94%B5%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B/</id>
-    <published>2021-07-02T11:52:08.000Z</published>
-    <updated>2021-07-11T02:30:09.972Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;tip</summary>
-        
-      
-    
-    
-    
-    <category term="学海无涯" scheme="http://explore-x.net/categories/%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF/"/>
-    
-    
-    <category term="专业" scheme="http://explore-x.net/tags/%E4%B8%93%E4%B8%9A/"/>
-    
-  </entry>
   
   <entry>
     <title>frequently-used</title>
@@ -82,75 +32,6 @@
     
     
     <category term="Hexo，写作" scheme="http://explore-x.net/tags/Hexo%EF%BC%8C%E5%86%99%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Mysql学习</title>
-    <link href="http://explore-x.net/2021/05/03/Mysql%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://explore-x.net/2021/05/03/Mysql%E5%AD%A6%E4%B9%A0/</id>
-    <published>2021-05-03T07:17:40.000Z</published>
-    <updated>2021-06-18T13:03:17.128Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;MySQL安装&quot;&gt;&lt;a href=&quot;#MySQL安装&quot; class=&quot;headerlink&quot; title=&quot;MySQL安装&quot;&gt;&lt;/a&gt;MySQL安装&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="学习" scheme="http://explore-x.net/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="mysql" scheme="http://explore-x.net/tags/mysql/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Django学习</title>
-    <link href="http://explore-x.net/2021/04/28/Django%E5%AD%A6%E4%B9%A0/"/>
-    <id>http://explore-x.net/2021/04/28/Django%E5%AD%A6%E4%B9%A0/</id>
-    <published>2021-04-28T04:48:52.000Z</published>
-    <updated>2021-06-18T13:03:17.107Z</updated>
-    
-    
-    <summary type="html">Django学习</summary>
-    
-    
-    
-    <category term="学习" scheme="http://explore-x.net/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Django" scheme="http://explore-x.net/tags/Django/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>光纤通信</title>
-    <link href="http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
-    <id>http://explore-x.net/2021/04/22/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/</id>
-    <published>2021-04-22T12:24:21.000Z</published>
-    <updated>2021-06-18T13:03:17.118Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;光纤的传输特性&quot;&gt;&lt;a href=&quot;#光纤的传输特性&quot; class=&quot;headerlink&quot; title=&quot;光纤的传输特性&quot;&gt;&lt;/a&gt;光纤的传输特性&lt;/h2&gt;&lt;h3 id=&quot;光纤的损耗&quot;&gt;&lt;a href=&quot;#光纤的损耗&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="光纤通信" scheme="http://explore-x.net/categories/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
-    
-    
-    <category term="光纤通信" scheme="http://explore-x.net/tags/%E5%85%89%E7%BA%A4%E9%80%9A%E4%BF%A1/"/>
     
   </entry>
   
